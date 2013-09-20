@@ -1,0 +1,8 @@
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\obj\x86\Debug\SimpleEntityFramework.csprojResolveAssemblyReference.cache
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\bin\Debug\SimpleEntityFramework.exe.config
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\bin\Debug\SimpleEntityFramework.exe
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\bin\Debug\SimpleEntityFramework.pdb
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\bin\Debug\EntityFramework.dll
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\bin\Debug\EntityFramework.xml
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\obj\x86\Debug\SimpleEntityFramework.exe
+c:\users\jim\documents\visual studio 2010\Projects\Blog\SimpleEntityFramework\SimpleEntityFramework\obj\x86\Debug\SimpleEntityFramework.pdb
